@@ -13,9 +13,13 @@
 
 <br>
 
-I'm a Information Systems Engineer passionate about software development and data management.
-I have experience in Python, data scraping, and databases such as MongoDB and SQL Server.
-I am interested in backend and frontend development, as well as system integration, applying best practices in software architecture. I also enjoy designing and developing technological solutions that optimize organizational workflows. :pray:.
+I am an Information Systems Engineer specialized in Software Quality Assurance (QA), with a strong focus on test automation and software reliability.
+
+I have experience designing and executing test strategies, including functional, regression, and API testing, as well as building automation frameworks using tools such as Selenium and Postman. I also have experience in performance testing with JMeter and working with RESTful services.
+
+My background in software development (Python) and databases (SQL Server, MongoDB) allows me to understand system architecture, write efficient test scripts, and collaborate effectively with development teams.
+
+I am committed to delivering high-quality software by applying best practices in testing, automation, and agile methodologies, always aiming to optimize processes and improve product quality. :pray:.
 
 <br>
 
