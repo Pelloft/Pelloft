@@ -3,17 +3,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<hr>
+
 <div align="right">
   <img
-    src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Animation.gif"
-    height="350"
+    src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" 
+    align="right"
+    height="320"
     width="400"
   />
 </div>
-
-<hr>
-
-<br>
 
 I am an Information Systems Engineer specialized in Software Quality Assurance (QA), with a strong focus on test automation and software reliability.
 
